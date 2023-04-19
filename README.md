@@ -16,9 +16,9 @@ Checkout and place orders
 
 ## Tools and Technologies
 
-React.js
-useState and useEffect hooks for state management
-PropTypes for type checking
-useContext for global state management
-React Router for client-side routing
-Material UI for UI components and styling
+1. React.js
+2. useState and useEffect hooks for state management
+3. PropTypes for type checking
+4. useContext for global state management
+5. React Router for client-side routing
+6. Material UI for UI components and styling
